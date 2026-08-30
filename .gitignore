@@ -74,3 +74,5 @@ branding-backup/
 .vscode/
 .DS_Store
 Thumbs.db
+
+tools/
